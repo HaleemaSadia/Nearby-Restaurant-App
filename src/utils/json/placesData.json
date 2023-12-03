@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Mock Place 1",
+    "place_id": "mock_place_id_1"
+  },
+  {
+    "description": "Mock Place 2",
+    "place_id": "mock_place_id_2"
+  },
+  {
+    "description": "Mock Place 3",
+    "place_id": "mock_place_id_3"
+  },
+  {
+    "description": "Mock Place 4",
+    "place_id": "mock_place_id_4"
+  },
+  {
+    "description": "Mock Place 5",
+    "place_id": "mock_place_id_5"
+  },
+  {
+    "description": "Mock Place 6",
+    "place_id": "mock_place_id_6"
+  }
+]
