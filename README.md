@@ -8,4 +8,5 @@ This App was created using React Native to search for restaurants using Yelp API
   `npm start` 
   
   ###### App Demo
-  <img src="https://github.com/VennilaPugazhenthi/Food/blob/main/assets/sampleAppScreen.jpeg" width=300 height= 600>
+https://github.com/HaleemaSadia/Nearby-Restaurant-App/assets/21139144/ec69c5a2-8378-4296-9bce-09dcdd39f1c6
+
